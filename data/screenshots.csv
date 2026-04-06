@@ -1,0 +1,50 @@
+filename,filepath,text,word_count,width,height,avg_brightness,ingested_at
+Screenshot 2024-10-16 100016.png,C:\Users\sudhi\screenbrain\screenshots\Screenshot 2024-10-16 100016.png,"2. Optimized Search in a Sorted 2D Matrix
+You are given an m xn matrix where each row is sorted in ascending order and each
+column is sorted in ascending order. Write an efficient algorithm to search for a target
+value. The algorithm should run in O (m + n) time.
+Key Concept: Start searching from the top-right corner of the matrix.
+Hint: If the target is smaller than the current element, move left. If the target is larger.
+move down. Continue adjusting the search space accordingly.
+Trickiness: Balancing both row-wise and column-Wwise sorted properties to narrow down
+the search space effectively.
+Test casel:
+Input:
+Enter matrix dimensions (rows and columns): 3 4
+Enter matrix row-wise:
+14711
+25812
+36916
+Enter target value: 5
+Output: Target found",126,878,937,248.63,2026-04-06T14:45:25.217417
+Screenshot 2024-10-25 210952.png,C:\Users\sudhi\screenbrain\screenshots\Screenshot 2024-10-25 210952.png,"6. Challenges and opportunities
+This section highlights some major challenges and potential opportunities (shown in Fig.
+2).
+Challenges and Opportunities in Earth Al
+The complexity of Earth system makes it challenging to realize fully operational Al systems.
+a Pam
+KK ny J
+S69 ;. * a i2
+Problem Identification Deployment & Integration &
+& Design Development Maintainence Decision Making
+Design Development Management Production
+Challenges: Challenges: Challenges: Challenges:
+~ Find right questions in ~ Model Building ~ Operation management ~ Integration with existing
+geoscience ~ Data Preparation ~ Real time big data geoscience systems
+~ Determine Al readiness ~ Generalization
+Processing ~ Reusability & replicability
+and maturity of the domain ~ Training Optimization
+~ Information dissemination ~ Ethics
+Opportunities ~ Uncertainties Opportunities Opportunities
+~ Build best practices forthe Opportunities ~ DevOps ~ Provenance
+geoscience community ~ AutoML ~ HPC ~ Explanable Al
+~ Allow bold attempts to ~ Cloud Computing ~ User & permission ~ Al Policy & Law
+solve the impossibles ~ Big training data
+~ Customer service for Al",170,1004,731,236.38,2026-04-06T14:45:26.090762
+Screenshot 2024-11-24 183618.png,C:\Users\sudhi\screenbrain\screenshots\Screenshot 2024-11-24 183618.png,"is = =
+Private Tour in Mumbai Slum with
+Sightseeing
+@eeee@ 155
+Car Tours
+from %5,500 per adult (price varies by
+group size)",23,481,704,184.03,2026-04-06T14:45:26.458329
